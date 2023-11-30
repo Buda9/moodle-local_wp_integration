@@ -1,4 +1,4 @@
-# Edwiser Bridge Extender Plugin for Moodle
+# Edwiser Bridge 3.x Extender Plugin for Moodle
 
 ## Moodle Auto-Login Integration Plugin
 
